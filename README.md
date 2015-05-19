@@ -28,3 +28,4 @@ Alternatively, you could watch all the vidoes and code along as Jon Gover builds
 * [Syncing video](https://www.youtube.com/playlist?list=PLj148bJp5wiw9J3BYOyzbcYuOtdT3MxVt)
 * [Repo #3](https://github.com/learn-co-students/fe-backbone-sync-example-bk-002)
 
+
