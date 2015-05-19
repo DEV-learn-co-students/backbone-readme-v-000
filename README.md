@@ -21,7 +21,7 @@ Alternatively, you could watch all the vidoes and code along as Jon Gover builds
 ### Routing
 
 * [Routing video](https://www.youtube.com/playlist?list=PLj148bJp5wixhi-s8ODPWSbnttvy6bZSQ)
-* [Repo #2](https://github.com/jongrover/backbone-router-example-bk-002)
+* [Repo #2](https://github.com/jongrover/backbone-router-example)
 
 ### Syncing
 
