@@ -8,23 +8,23 @@ Alternatively, you could watch all the vidoes and code along as Jon Gover builds
 
 ### Basics
 
-[Basics Video](https://www.youtube.com/playlist?list=PLj148bJp5wiyKMxYka6m0pOfRzKzrQI5I)
+* [Basics Video](https://www.youtube.com/playlist?list=PLj148bJp5wiyKMxYka6m0pOfRzKzrQI5I)
 
 ### Models/Collections
 
-[Models/Collections Video](https://www.youtube.com/playlist?list=PLj148bJp5wixXYXZSjgTK6qasGM1HmrQ_)
+* [Models/Collections Video](https://www.youtube.com/playlist?list=PLj148bJp5wixXYXZSjgTK6qasGM1HmrQ_)
 
 ### Views
 
-[Views video](https://www.youtube.com/playlist?list=PLj148bJp5wiyPX9aFIXE5plmxy2lVWTGN)
+* [Views video](https://www.youtube.com/playlist?list=PLj148bJp5wiyPX9aFIXE5plmxy2lVWTGN)
 
 ### Routing
 
-[Routing video](https://www.youtube.com/playlist?list=PLj148bJp5wixhi-s8ODPWSbnttvy6bZSQ)
-[Repo #2](https://github.com/jongrover/backbone-router-example-bk-002)
+* [Routing video](https://www.youtube.com/playlist?list=PLj148bJp5wixhi-s8ODPWSbnttvy6bZSQ)
+* [Repo #2](https://github.com/jongrover/backbone-router-example-bk-002)
 
 ### Syncing
 
-[Syncing video](https://www.youtube.com/playlist?list=PLj148bJp5wiw9J3BYOyzbcYuOtdT3MxVt)
-[Repo #3](https://github.com/learn-co-students/fe-backbone-sync-example-bk-002)
+* [Syncing video](https://www.youtube.com/playlist?list=PLj148bJp5wiw9J3BYOyzbcYuOtdT3MxVt)
+* [Repo #3](https://github.com/learn-co-students/fe-backbone-sync-example-bk-002)
 
