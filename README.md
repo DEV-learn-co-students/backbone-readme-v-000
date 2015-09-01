@@ -1,10 +1,10 @@
 # Backbone
 
-All of the videos below bulid off of [this repo #1](https://github.com/learn-co-students/fe-js-backbone-produce-store-bk-002). Before getting started, if you're feeling adventurous, clone down Repo #3, Repo #2 if you're feeling less so. Run the app to see what functionality we're going for. 
+Welcome to the world of Backbone, a front-end framework that `gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.`
 
-Then add code to the first repo to achieve the functionality seen in Repo #2/Repo #3. If you get stuck, watch a related video.
+All of the videos below build off this [Produce Store repo](https://learn.co/lessons/3837). Before getting started, if you're feeling adventurous, clone down Repo #2 and Repo #3 to see what functionality we'll be building.
 
-Alternatively, you could watch all the vidoes and code along as Jon Gover builds the app. Up to you!
+Add code to the first repo to achieve the functionality seen in Repo #2 and Repo #3. If you get stuck, watch a related video. If you want a step-by-step guide through the process, watch all the vidoes in order and code along as Jon Gover builds the app. Up to you!
 
 ### Basics
 
@@ -26,6 +26,6 @@ Alternatively, you could watch all the vidoes and code along as Jon Gover builds
 ### Syncing
 
 * [Syncing video](https://www.youtube.com/playlist?list=PLj148bJp5wiw9J3BYOyzbcYuOtdT3MxVt)
-* [Repo #3](https://github.com/learn-co-students/fe-backbone-sync-example-bk-002)
+* [Repo #3](https://learn.co/lessons/2533)
 
 
