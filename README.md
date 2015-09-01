@@ -1,6 +1,6 @@
 # Backbone
 
-Welcome to the world of Backbone, a front-end framework that `gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.`
+Welcome to the world of Backbone, a front-end framework that _"gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface."_
 
 All of the videos below build off this [Produce Store repo](https://learn.co/lessons/3837). Before getting started, if you're feeling adventurous, clone down Repo #2 and Repo #3 to see what functionality we'll be building.
 
