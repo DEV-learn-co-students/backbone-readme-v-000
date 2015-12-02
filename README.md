@@ -29,3 +29,5 @@ Add code to the first repo to achieve the functionality seen in Repo #2 and Repo
 * [Repo #3](https://learn.co/lessons/11415)
 
 
+
+<a href='https://learn.co/lessons/backbone-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
